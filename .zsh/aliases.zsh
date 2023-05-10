@@ -1,6 +1,6 @@
 # Alias
 # ---
-#
+
 # ALIAS COMMANDS
 alias ls="exa --icons --group-directories-first --long --header --all"
 alias ll="exa --icons --group-directories-first -l"
